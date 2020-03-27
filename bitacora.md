@@ -8,7 +8,14 @@ los strings
 
 **Dificulatades :** no he tenido dificultades debido a que estos temas son de introduccion 
 
-**hola**
+**Día #2 26 de marzo de 2020**
 
+Tema elegido: **Basic JavaScript: Quoting Strings with Single Quote**
+
+
+**Lo aprendido :** Aprendia manejar strings, arrays y arrays anidados
+
+
+**Dificulatades :** en ocasiones no entiendo bien las instrucciones del sitio "www.freecodecamp.org" fuera de eso todo bien
 
 
