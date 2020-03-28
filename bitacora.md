@@ -19,3 +19,11 @@ Tema elegido: **Basic JavaScript: Quoting Strings with Single Quote**
 **Dificulatades :** en ocasiones no entiendo bien las instrucciones del sitio "www.freecodecamp.org" fuera de eso todo bien
 
 
+**Día #3 27 de marzo de 2020**
+
+**Lo aprendido :** Aprendí a usar funciones y a declarar variables locales y globales asi como a usar el return en una funcion 
+
+**Dificulatades :** no tuve dificultades  
+
+
+
