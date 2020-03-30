@@ -31,5 +31,13 @@ Tema elegido: **Basic JavaScript: Quoting Strings with Single Quote**
 
 **Dificulatades :** no tuve dificultades 
 
+**Día #5 29 de marzo de 2020**
+
+**Lo aprendido :**  Aprendí a usarla sentencia switch y res
+
+**Dificulatades :** no tuve dificultades
+
+**link a challenge  golf** codigo https://onlinegdb.com/S1ftSCCUU
+
 
 
