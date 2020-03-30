@@ -25,7 +25,7 @@ Tema elegido: **Basic JavaScript: Quoting Strings with Single Quote**
 
 **Dificulatades :** no tuve dificultades 
 
-**Día # 28 de marzo de 2020**
+**Día #4 28 de marzo de 2020**
 
 **Lo aprendido :** Aprendí a usar variables de tipo booleanas, y a utilizar condicionales logicos 
 
