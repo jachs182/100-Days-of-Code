@@ -23,7 +23,13 @@ Tema elegido: **Basic JavaScript: Quoting Strings with Single Quote**
 
 **Lo aprendido :** Aprendí a usar funciones y a declarar variables locales y globales asi como a usar el return en una funcion 
 
-**Dificulatades :** no tuve dificultades  
+**Dificulatades :** no tuve dificultades 
+
+**Día # 28 de marzo de 2020**
+
+**Lo aprendido :** Aprendí a usar variables de tipo booleanas, y a utilizar condicionales logicos 
+
+**Dificulatades :** no tuve dificultades 
 
 
 
