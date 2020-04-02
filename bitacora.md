@@ -33,11 +33,32 @@ Tema elegido: **Basic JavaScript: Quoting Strings with Single Quote**
 
 **Día #5 29 de marzo de 2020**
 
-**Lo aprendido :**  Aprendí a usarla sentencia switch y res
+**Lo aprendido :**  Aprendí a usarla sentencia switch 
 
 **Dificulatades :** no tuve dificultades
 
 **link a challenge  golf** codigo https://onlinegdb.com/S1ftSCCUU
+
+**Día #6 30 de marzo de 2020**
+
+**Lo aprendido :**  Aprendí a crear objetos de java  
+
+**Dificulatades :** no tuve dificultades
+
+**Día #7 31 de marzo de 2020**
+
+**Lo aprendido :**  Aprendí a crear manipular (añadir , eliminar, preguntar por elementos) objetos de java  
+
+**Dificulatades :** no tuve dificultades
+
+**Día #8 1 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a realizar busquedas en objetos y resolvi el challlenge del tema  
+
+**Dificulatades :** se me dificulto entender las instrucciones del desafio
+
+**link a challenge  Record Collection** codigo: https://onlinegdb.com/SJ2oLeXvL
+
 
 
 
