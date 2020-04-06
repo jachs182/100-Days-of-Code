@@ -60,5 +60,39 @@ Tema elegido: **Basic JavaScript: Quoting Strings with Single Quote**
 **link a challenge  Record Collection** codigo: https://onlinegdb.com/SJ2oLeXvL
 
 
+**Día #9 2 de marzo 2020**
 
+**Lo aprendido :**  Aprendí a utilizar ciclos while,dor y do... while  
+
+**Dificulatades :** no hubo dificultades
+
+**Día #10 3 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a utilizar cicloscon arreglos y se empezo el tema de recursividad  
+
+**Dificulatades :** no hubo dificultades
+
+
+**Día #11 4 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a utilizar cicloscon arreglos ,se empezo el tema de recursividad y   empece a resolver el deafio Profile Look up  
+
+**Dificulatades :** no pude terminar el desafio en un dia
+
+
+**Día #12 5 de marzo 2020**
+
+**Lo aprendido :** termine el desafio Lookup Profile
+
+**Dificulatades :** Tardo en entender las instrucciones de los desafios
+
+**link a challenge Profile Lookup** codigo: https://onlinegdb.com/BkTR9MKPU
+
+
+
+**Día #13 6 de marzo 2020**
+
+**Lo aprendido :**  Aprendí agenerar numeros aleatorios, a utilizar la funcion parseint y termine la primera parte del curso  
+
+**Dificulatades :** no hubo dificultades
 
