@@ -96,3 +96,105 @@ Tema elegido: **Basic JavaScript: Quoting Strings with Single Quote**
 
 **Dificulatades :** no hubo dificultades
 
+
+**Día #14: 7 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a declarar variables de solo lectura y variables de tipo let y const
+**Dificulatades :** no hubo dificultades
+
+**Día #15: 8 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a utilizar la flecha para declarar funciones consisas anonimas
+
+**Dificulatades :** no hubo dificultades
+
+**Día #16: 9 de marzo 2020**
+
+**Lo aprendido :**  Realice algunos ejercicos para extraer elementos de los objetos utilizando Destructuring assignment
+
+**Dificulatades :** no hubo dificultades
+
+**Día #17: 10 de marzo 2020**
+
+**Lo aprendido :**  Empece a declarar funciones con ES6 
+
+**Dificulatades :** no hubo dificultades
+
+**Día #18: 11 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a importar codigo usando JavaScript 
+
+**Dificulatades :** no hubo dificultades
+
+**Día #19: 12 de marzo 2020**
+
+**Lo aprendido :**  Aprendi a pasar un objeto como una funcion con parametros
+
+**Dificulatades :** no pude terminar la actividad "Create Strings using Template literals"
+
+**Día #20: 13 de marzo 2020**
+
+**Lo aprendido :** 
+
+**Dificulatades :** me estanque en la actividad "Create Strings using Template literals"
+
+**Día #21: 14 de marzo 2020**
+
+**Lo aprendido :**  Logre completar la actividad "Create Strings using Template literals"
+
+**Dificulatades :** solo el estancamiento prolongado de dos dias
+
+**Día #22: 15 de marzo 2020**
+
+**Lo aprendido :**  Comprendi el uso de "resolve, reject, then y catch" y termine la segunda parte del curso   
+
+**Dificulatades :** no hubo dificultades
+
+**Día #23: 16 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a detectar palabras clave dentro de un string  
+
+**Dificulatades :** no hubo dificultades
+
+
+**Día #24: 17 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a utlizar comodines dentro de los arreglos
+
+**Dificulatades :** no hubo dificultades
+
+**Día #25: 18 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a detectar multiples caracteres dentro de un string   
+
+**Dificulatades :** no hubo dificultades
+
+**Día #26: 19 de marzo 2020**
+
+**Lo aprendido :**  Aprendí a detectar caracteres repetidos en un arreglo
+**Dificulatades :** no hubo dificultades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
